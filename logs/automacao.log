@@ -1,0 +1,46 @@
+2026-05-28 19:06:19,640 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:06:19,640 - INFO - Lendo planilha
+2026-05-28 19:06:19,647 - INFO - Limpando dados
+2026-05-28 19:06:19,650 - INFO - Gerando relatório
+2026-05-28 19:06:19,659 - INFO - Formatando Excel
+2026-05-28 19:06:19,668 - INFO - Exportando CSV
+2026-05-28 19:06:19,668 - INFO - Enviando email
+2026-05-28 19:06:21,747 - ERROR - Erro: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 71dfb90a1353d-599d4754259sm53804e0c.7 - gsmtp')
+2026-05-28 19:09:13,679 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:09:13,680 - INFO - Lendo planilha
+2026-05-28 19:09:13,691 - INFO - Limpando dados
+2026-05-28 19:09:13,700 - INFO - Gerando relatório
+2026-05-28 19:09:13,712 - INFO - Formatando Excel
+2026-05-28 19:09:13,724 - INFO - Exportando CSV
+2026-05-28 19:09:13,726 - INFO - === AUTOMAÇÃO FINALIZADA ===
+2026-05-28 19:14:01,287 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:14:01,287 - INFO - Lendo planilha
+2026-05-28 19:14:01,293 - INFO - Limpando dados
+2026-05-28 19:14:01,298 - INFO - Gerando relatório
+2026-05-28 19:14:01,310 - INFO - Formatando Excel
+2026-05-28 19:14:01,317 - INFO - Exportando CSV
+2026-05-28 19:14:01,318 - INFO - === AUTOMAÇÃO FINALIZADA ===
+2026-05-28 19:14:20,081 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:14:20,082 - INFO - Lendo planilha
+2026-05-28 19:14:20,088 - INFO - Limpando dados
+2026-05-28 19:14:20,092 - INFO - Gerando relatório
+2026-05-28 19:14:20,190 - INFO - Formatando Excel
+2026-05-28 19:14:20,203 - INFO - Exportando CSV
+2026-05-28 19:14:20,204 - INFO - === AUTOMAÇÃO FINALIZADA ===
+2026-05-28 19:15:28,615 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:15:28,616 - INFO - Lendo planilha
+2026-05-28 19:15:28,620 - INFO - Limpando dados
+2026-05-28 19:15:28,622 - INFO - Gerando relatório
+2026-05-28 19:15:28,630 - INFO - Formatando Excel
+2026-05-28 19:15:28,638 - INFO - Exportando CSV
+2026-05-28 19:15:28,639 - INFO - === AUTOMAÇÃO FINALIZADA ===
+2026-05-28 19:23:27,535 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:23:27,536 - INFO - Lendo planilha
+2026-05-28 19:23:27,536 - ERROR - Erro: [Errno 2] No such file or directory: '/home/joovictorloewen/Área de trabalho/AutomaçãoExcelEmpresarial/entrada/vendas.xlsx'
+2026-05-28 19:23:55,455 - INFO - === INICIANDO AUTOMAÇÃO ===
+2026-05-28 19:23:55,455 - INFO - Lendo planilha
+2026-05-28 19:23:55,510 - INFO - Limpando dados
+2026-05-28 19:23:55,514 - INFO - Gerando relatório
+2026-05-28 19:23:55,576 - INFO - Formatando Excel
+2026-05-28 19:23:55,661 - INFO - Exportando CSV
+2026-05-28 19:23:55,663 - INFO - === AUTOMAÇÃO FINALIZADA ===
